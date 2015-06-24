@@ -1,4 +1,1 @@
 formatter.name: pretty
-suites:
-    todo_suite:
-        namespace: Me\Todo
